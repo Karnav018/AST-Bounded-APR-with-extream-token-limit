@@ -1,0 +1,5 @@
+javalang
+pandas
+groq
+python-dotenv
+streamlit
